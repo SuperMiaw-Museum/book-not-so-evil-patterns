@@ -4,7 +4,7 @@
 
 **Created: 2026-10-22T17:09:57Z**
 
-**Last modified: 2026-10-22T17:20:29Z**
+**Modified: 2026-10-22T17:20:29Z**
 
 > *“Every bug deserves a chapter.”*
 
