@@ -10,27 +10,15 @@
 
 ## Problem
 
-You need to make a five-minute change.
-
-Doing it yourself would be easy. Unfortunately, this would involve doing it yourself.
-
-Fortunately, an AI agent can handle the task.
+You need to make a five-minute change. Doing it yourself would be easy. Unfortunately, this would involve doing it yourself. Fortunately, an AI agent can handle the task.
 
 ## Solution
 
 Delegate the change.
 
-The result is almost correct. A heading is inconsistent. You clarify the formatting rules.
+The result is almost correct. A heading is inconsistent. You clarify the formatting rules. The agent fixes it and modifies three unrelated files. You clarify the scope. A timestamp is wrong. You explain the difference between creation and modification dates.
 
-The agent fixes it and modifies three unrelated files. You clarify the scope.
-
-A timestamp is wrong. You explain the difference between creation and modification dates.
-
-To avoid repeating yourself, write an instruction file defining conventions, forbidden files, and validation procedures.
-
-Add execution logs and completion notifications to ensure everything runs smoothly.
-
-Finally, review every changed line.
+To avoid repeating yourself, write an instruction file defining conventions, forbidden files, and validation procedures. Add execution logs and completion notifications to ensure everything runs smoothly. Finally, review every changed line.
 
 Your five-minute task now has a complete operational framework.
 
