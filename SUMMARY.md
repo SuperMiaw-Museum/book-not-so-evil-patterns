@@ -13,3 +13,4 @@
 - [009 — The perfectly supervised agent](patterns/009-the-perfectly-supervised-agent.md) · automation
 - [010 — The perfectly tuned system](patterns/010-the-perfectly-tuned-system.md) · optimization
 - [011 — The ultimate cleanup](patterns/011-the-ultimate-cleanup.md) · maintenance
+- [012 — The perfectly shareable project](patterns/012-the-perfectly-shareable-project.md) · open-source

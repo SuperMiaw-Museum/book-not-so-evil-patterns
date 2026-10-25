@@ -41,4 +41,4 @@ Including the ones your application needed.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](010-the-perfectly-tuned-system.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](010-the-perfectly-tuned-system.md) · [Next →](012-the-perfectly-shareable-project.md)
