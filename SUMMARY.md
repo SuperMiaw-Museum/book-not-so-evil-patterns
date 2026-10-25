@@ -14,3 +14,4 @@
 - [010 — The perfectly tuned system](patterns/010-the-perfectly-tuned-system.md) · optimization
 - [011 — The ultimate cleanup](patterns/011-the-ultimate-cleanup.md) · maintenance
 - [012 — The perfectly shareable project](patterns/012-the-perfectly-shareable-project.md) · open-source
+- [013 — The infinite AI feedback loop](patterns/013-the-infinite-ai-feedback-loop.md) · automation

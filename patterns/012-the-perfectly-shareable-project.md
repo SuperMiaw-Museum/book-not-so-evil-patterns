@@ -43,4 +43,4 @@ Three days later, it is taken down for copyright infringement.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](011-the-ultimate-cleanup.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](011-the-ultimate-cleanup.md) · [Next →](013-the-infinite-ai-feedback-loop.md)
