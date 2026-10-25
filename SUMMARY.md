@@ -12,3 +12,4 @@
 - [008 — The technical autobiography](patterns/008-the-technical-autobiography.md) · documentation
 - [009 — The perfectly supervised agent](patterns/009-the-perfectly-supervised-agent.md) · automation
 - [010 — The perfectly tuned system](patterns/010-the-perfectly-tuned-system.md) · optimization
+- [011 — The ultimate cleanup](patterns/011-the-ultimate-cleanup.md) · maintenance
