@@ -52,4 +52,4 @@ It only took three hours to explain how.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](008-the-technical-autobiography.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](008-the-technical-autobiography.md) · [Next →](010-the-perfectly-tuned-system.md)

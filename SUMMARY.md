@@ -11,3 +11,4 @@
 - [007 — The application collection](patterns/007-the-application-collection.md) · maintenance
 - [008 — The technical autobiography](patterns/008-the-technical-autobiography.md) · documentation
 - [009 — The perfectly supervised agent](patterns/009-the-perfectly-supervised-agent.md) · automation
+- [010 — The perfectly tuned system](patterns/010-the-perfectly-tuned-system.md) · optimization
