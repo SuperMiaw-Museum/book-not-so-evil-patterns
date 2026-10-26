@@ -1,5 +1,9 @@
 # Not so evil patterns
 
+[![Build](https://img.shields.io/badge/build-N%2FA-lightgrey)](./README.md)
+[![Tests](https://img.shields.io/badge/tests-N%2FA-lightgrey)](./README.md)
+[![Delivery](https://img.shields.io/badge/delivery-OK-brightgreen)](./README.md)
+
 *Great idea. Perfect execution.*
 
 This book brings together proven software engineering practices, curated from real-world experience.

@@ -39,4 +39,4 @@ The application no longer serves a purpose. Fortunately, it is now open to visit
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](012-the-infinite-ai-feedback-loop.md) · [Next →](999-the-technical-autobiography.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](012-the-infinite-ai-feedback-loop.md) · [Next →](014-the-book-as-code.md)

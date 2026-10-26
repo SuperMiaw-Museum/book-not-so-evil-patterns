@@ -15,4 +15,5 @@
 - [011 — The perfectly shareable project](patterns/011-the-perfectly-shareable-project.md) · open-source
 - [012 — The infinite AI feedback loop](patterns/012-the-infinite-ai-feedback-loop.md) · automation
 - [013 — The software museum](patterns/013-the-software-museum.md) · software architecture
+- [014 — The book as code](patterns/014-the-book-as-code.md) · devops
 - [999 — The technical autobiography](patterns/999-the-technical-autobiography.md) · documentation
