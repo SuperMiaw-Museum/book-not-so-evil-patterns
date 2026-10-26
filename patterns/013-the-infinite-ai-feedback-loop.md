@@ -39,4 +39,4 @@ It replies: *“This implementation has several issues. I recommend starting fro
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](012-the-perfectly-shareable-project.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](012-the-perfectly-shareable-project.md) · [Next →](014-the-software-museum.md)
