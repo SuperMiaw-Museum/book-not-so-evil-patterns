@@ -1,8 +1,10 @@
 # The perfectly tuned system
 
-**Pattern 010 · Category: optimization**
+**Pattern 009 · Category: optimization**
 
 **Created: 2026-10-25T20:27:37Z**
+
+**Modified: 2026-10-26T10:21:15Z**
 
 > *“Why only use a software when you can recompile it ?”*
 
@@ -37,4 +39,4 @@ You just can't use it.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](009-the-perfectly-supervised-agent.md) · [Next →](011-the-ultimate-cleanup.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](008-the-perfectly-supervised-agent.md) · [Next →](010-the-ultimate-cleanup.md)

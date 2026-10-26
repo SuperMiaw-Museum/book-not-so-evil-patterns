@@ -1,8 +1,10 @@
 # The software museum
 
-**Pattern 014 · Category: software architecture**
+**Pattern 013 · Category: software architecture**
 
 **Created: 2026-10-26T10:11:31Z**
+
+**Modified: 2026-10-26T10:21:15Z**
 
 > *“Good software solves problems. Great software demonstrates design patterns.”*
 
@@ -37,4 +39,4 @@ The application no longer serves a purpose. Fortunately, it is now open to visit
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](013-the-infinite-ai-feedback-loop.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](012-the-infinite-ai-feedback-loop.md) · [Next →](999-the-technical-autobiography.md)

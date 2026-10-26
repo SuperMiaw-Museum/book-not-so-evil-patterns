@@ -43,4 +43,4 @@ It also needs updates.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](006-too-many-choices.md) · [Next →](008-the-technical-autobiography.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](006-too-many-choices.md) · [Next →](008-the-perfectly-supervised-agent.md)

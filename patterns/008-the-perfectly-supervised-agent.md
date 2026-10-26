@@ -1,10 +1,10 @@
 # The perfectly supervised agent
 
-**Pattern 009 · Category: automation**
+**Pattern 008 · Category: automation**
 
 **Created: 2026-10-22T17:17:09Z**
 
-**Modified: 2026-10-25T20:30:56Z**
+**Modified: 2026-10-26T10:21:15Z**
 
 > *“Why do it yourself when you can explain it perfectly?”*
 
@@ -40,4 +40,4 @@ It only took three hours to explain how.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](008-the-technical-autobiography.md) · [Next →](010-the-perfectly-tuned-system.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](007-the-application-collection.md) · [Next →](009-the-perfectly-tuned-system.md)

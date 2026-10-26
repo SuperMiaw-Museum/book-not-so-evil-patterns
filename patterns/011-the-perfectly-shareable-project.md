@@ -1,8 +1,10 @@
 # The perfectly shareable project
 
-**Pattern 012 · Category: open-source**
+**Pattern 011 · Category: open-source**
 
 **Created: 2026-10-25T20:48:03Z**
+
+**Modified: 2026-10-26T10:21:15Z**
 
 > *“Writing the software was easy. Sharing it was the real challenge.”*
 
@@ -43,4 +45,4 @@ Three days later, it is taken down for copyright infringement.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](011-the-ultimate-cleanup.md) · [Next →](013-the-infinite-ai-feedback-loop.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](010-the-ultimate-cleanup.md) · [Next →](012-the-infinite-ai-feedback-loop.md)

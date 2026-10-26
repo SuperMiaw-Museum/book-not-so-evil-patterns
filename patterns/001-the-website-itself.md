@@ -1,8 +1,10 @@
 # The website itself
 
-**Pattern 002 · Category: architecture**
+**Pattern 001 · Category: architecture**
 
 **Created: 2026-10-22T17:05:21Z**
+
+**Modified: 2026-10-26T10:21:15Z**
 
 > *“Why write articles when you can build a platform to publish them?”*
 
@@ -30,4 +32,4 @@ The site launches with a stunning homepage and an empty catalog.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](001-the-surprise-trigger.md) · [Next →](003-the-infinite-systems-engineering-analysis.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [Next →](002-the-surprise-trigger.md)

@@ -1,8 +1,10 @@
 # The surprise trigger
 
-**Pattern 001 · Category: database**
+**Pattern 002 · Category: database**
 
 **Created: 2026-10-22T17:05:21Z**
+
+**Modified: 2026-10-26T10:21:15Z**
 
 > *“Data doesn't need an origin story.”*
 
@@ -30,4 +32,4 @@ The missing data producer turns out to be a trigger written years ago. It has be
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [Next →](002-the-website-itself.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](001-the-website-itself.md) · [Next →](003-the-infinite-systems-engineering-analysis.md)

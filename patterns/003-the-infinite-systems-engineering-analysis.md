@@ -30,4 +30,4 @@ The final recommendation is the original straightforward solution.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](002-the-website-itself.md) · [Next →](004-the-automated-automation.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](002-the-surprise-trigger.md) · [Next →](004-the-automated-automation.md)

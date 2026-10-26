@@ -1,10 +1,10 @@
 # The technical autobiography
 
-**Pattern 008 · Category: documentation**
+**Pattern 999 · Category: documentation**
 
 **Created: 2026-10-22T17:09:57Z**
 
-**Modified: 2026-10-25T20:30:56Z**
+**Modified: 2026-10-26T10:21:15Z**
 
 > *“Every bug deserves a chapter.”*
 
@@ -47,4 +47,4 @@ You ended up documenting yourself.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](007-the-application-collection.md) · [Next →](009-the-perfectly-supervised-agent.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](013-the-software-museum.md)

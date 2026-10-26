@@ -1,8 +1,10 @@
 # The ultimate cleanup
 
-**Pattern 011 · Category: maintenance**
+**Pattern 010 · Category: maintenance**
 
 **Created: 2026-10-25T20:43:57Z**
+
+**Modified: 2026-10-26T10:21:15Z**
 
 > *“The cleanest code is no code at all.”*
 
@@ -41,4 +43,4 @@ Including the ones your application needed.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](010-the-perfectly-tuned-system.md) · [Next →](012-the-perfectly-shareable-project.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](009-the-perfectly-tuned-system.md) · [Next →](011-the-perfectly-shareable-project.md)

@@ -1,8 +1,10 @@
 # The infinite AI feedback loop
 
-**Pattern 013 · Category: automation**
+**Pattern 012 · Category: automation**
 
 **Created: 2026-10-25T20:54:12Z**
+
+**Modified: 2026-10-26T10:21:15Z**
 
 > *“Every problem has a solution. Every solution has a new problem.”*
 
@@ -39,4 +41,4 @@ It replies: *“This implementation has several issues. I recommend starting fro
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](012-the-perfectly-shareable-project.md) · [Next →](014-the-software-museum.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](011-the-perfectly-shareable-project.md) · [Next →](013-the-software-museum.md)
