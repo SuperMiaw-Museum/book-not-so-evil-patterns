@@ -4,6 +4,12 @@
 [![Tests](https://img.shields.io/badge/tests-N%2FA-lightgrey)](./README.md)
 [![Delivery](https://img.shields.io/badge/delivery-OK-brightgreen)](./README.md)
 
+<p align="center">
+  <a href="./README.md">
+    <img src="assets/mascot.png" alt="Our perfectly productive mascot" >
+  </a>
+</p>
+
 *Great idea. Perfect execution.*
 
 This book brings together proven software engineering practices, curated from real-world experience.

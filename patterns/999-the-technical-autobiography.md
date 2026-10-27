@@ -47,4 +47,4 @@ You ended up documenting yourself.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](015-the-outdoor-gate-as-code.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](016-the-perfect-application-logo.md)

@@ -17,4 +17,5 @@
 - [013 — The software museum](patterns/013-the-software-museum.md) · software architecture
 - [014 — The book as code](patterns/014-the-book-as-code.md) · devops
 - [015 — The outdoor gate as code](patterns/015-the-outdoor-gate-as-code.md) · devops
+- [016 — The perfect application logo](patterns/016-the-perfect-application-logo.md) · design
 - [999 — The technical autobiography](patterns/999-the-technical-autobiography.md) · documentation
