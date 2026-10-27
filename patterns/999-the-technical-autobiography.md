@@ -47,4 +47,4 @@ You ended up documenting yourself.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](014-the-book-as-code.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](015-the-outdoor-gate-as-code.md)

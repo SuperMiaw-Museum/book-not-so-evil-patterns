@@ -37,4 +37,4 @@ Your book now has a fully automated release pipeline. Unfortunately, nobody has 
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](013-the-software-museum.md) · [Next →](999-the-technical-autobiography.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](013-the-software-museum.md) · [Next →](015-the-outdoor-gate-as-code.md)
