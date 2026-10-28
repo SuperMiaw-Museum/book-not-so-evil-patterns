@@ -36,4 +36,4 @@ The mascot now has her own roadmap, complete with seasonal events and limited-ti
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](015-the-outdoor-gate-as-code.md) · [Next →](999-the-technical-autobiography.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](015-the-outdoor-gate-as-code.md) · [Next →](017-the-perfectly-planned-vacation.md)

@@ -47,4 +47,4 @@ You ended up documenting yourself.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](016-the-perfect-application-logo.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](017-the-perfectly-planned-vacation.md)

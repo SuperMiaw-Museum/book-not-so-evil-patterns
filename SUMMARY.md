@@ -18,4 +18,5 @@
 - [014 — The book as code](patterns/014-the-book-as-code.md) · devops
 - [015 — The outdoor gate as code](patterns/015-the-outdoor-gate-as-code.md) · devops
 - [016 — The perfect application logo](patterns/016-the-perfect-application-logo.md) · design
+- [017 — The perfectly planned vacation](patterns/017-the-perfectly-planned-vacation.md) · productivity
 - [999 — The technical autobiography](patterns/999-the-technical-autobiography.md) · documentation
