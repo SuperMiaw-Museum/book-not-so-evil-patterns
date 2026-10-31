@@ -47,4 +47,4 @@ You ended up documenting yourself.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](020-the-perfectly-entertaining-history.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](998-the-continuous-degradation-cycle.md)

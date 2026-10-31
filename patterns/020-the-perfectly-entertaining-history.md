@@ -34,4 +34,4 @@ A production regression is eventually traced to a commit titled `fix: the cake i
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](019-the-perfectly-managed-software-afterlife.md) · [Next →](999-the-technical-autobiography.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](019-the-perfectly-managed-software-afterlife.md) · [Next →](998-the-continuous-degradation-cycle.md)

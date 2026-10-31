@@ -19,7 +19,7 @@ This is a small, single-author satirical book in Markdown, intended to be read d
 ## Markdown chapters
 
 - Keep one Markdown file per pattern under `patterns/`.
-- Name files `NNN-kebab-case-title.md`. Normal chapters start at `001`; choose the next number above the highest existing normal identifier, ignoring `999` (currently the next normal ID is `014`). Reserve `999-the-technical-autobiography.md` permanently for the epilogue, The technical autobiography. Never assign `999` to a normal chapter. Do not renumber or recycle identifiers except for an explicitly author-approved reordering; the epilogue always retains `999`.
+- Name files `NNN-kebab-case-title.md`. Normal chapters start at `001`; compute the next normal ID dynamically as the highest existing normal chapter ID plus one, excluding reserved identifiers `998` and `999`. Reserve `998-the-continuous-degradation-cycle.md` permanently for The continuous degradation cycle, immediately before the permanent epilogue, `999-the-technical-autobiography.md`, The technical autobiography. Never assign `998` or `999` to a normal chapter. Do not renumber or recycle identifiers except for an explicitly author-approved reordering; the two reserved chapters always retain `998` and `999`, respectively.
 - Begin each chapter with a readable `# Title`, followed by Markdown metadata: `**Pattern NNN · Category: category**`.
 - Use sentence case for human-readable titles and headings: capitalize the first word and proper nouns only (e.g. `The surprise trigger`), not PascalCase or Title Case. Keep filenames in lowercase kebab-case.
 - Do not use YAML front matter, Liquid templates, or site-specific metadata.
@@ -33,15 +33,15 @@ This is a small, single-author satirical book in Markdown, intended to be read d
 ## Reading and navigation
 
 - Treat README.md as author-owned and read-only. It should remain an inviting entry point, but do not edit it.
-- Maintain SUMMARY.md as the linked table of contents in ascending normal chapter-number order, followed by chapter `999` exactly once and always last. Insert each new normal chapter immediately before `999`; update the contents when adding or explicitly reordering chapters.
+- Maintain SUMMARY.md as the linked table of contents in ascending normal chapter-number order, followed by chapters `998` and `999` exactly once each, in that order, with `999` always last. Insert each new normal chapter immediately before `998`; update the contents when adding or explicitly reordering chapters.
 - Use relative Markdown links with explicit `.md` filenames, including cross-references between chapters.
-- End chapters with links to README.md, SUMMARY.md, and the previous/next chapters where available. Reading navigation must follow the normal chapter order and always end at `999`, which has no next chapter. When adding a normal chapter, insert it immediately before `999`, link the last normal chapter forward to `999`, and link `999` back to that last normal chapter. Update neighboring navigation when adding or explicitly reordering chapters.
+- End chapters with links to README.md, SUMMARY.md, and the previous/next chapters where available. Reading navigation must follow ascending normal chapter IDs, followed by `998` then `999`, which has no next chapter. When adding a normal chapter, insert it immediately before `998`, link the last normal chapter forward to `998`, and link `998` back to that last normal chapter. Link `998` forward to `999` and `999` back to `998`. Update neighboring navigation when adding or explicitly reordering chapters.
 - Use GitHub's native Markdown rendering. Avoid raw HTML, CSS, scripts, external fonts, tracking, and remote presentation dependencies.
 
 ## Validation
 
-- Check chapter numbering, filename uniqueness, title uniqueness, and agreement between filenames and readable metadata. Validate normal IDs independently of the reserved `999`; verify that `999-the-technical-autobiography.md` is the sole permanent epilogue and that next-ID selection ignores `999`.
-- Validate relative Markdown links and any heading anchors; ensure the contents lists every normal chapter once in ascending number order and `999` exactly once at the end. Check every previous/next link against that reading order, with the last normal chapter linking to `999`, `999` linking back to it, no next link from `999`, and no missing targets.
+- Check chapter numbering, filename uniqueness, title uniqueness, and agreement between filenames and readable metadata. Validate normal IDs independently of reserved identifiers `998` and `999`; verify that `998-the-continuous-degradation-cycle.md` and `999-the-technical-autobiography.md` retain their permanent identifiers, that `999` is the sole permanent epilogue, and that next-ID selection computes the highest normal chapter ID plus one, excluding both reserved identifiers. Ensure normal chapters never use `998` or `999`.
+- Validate relative Markdown links and any heading anchors; ensure the contents lists every normal chapter once in ascending number order, followed by `998` then `999` exactly once each at the end. Check every previous/next link against that reading order, with the last normal chapter linking forward to `998`, `998` linking back to the last normal chapter and forward to `999`, `999` linking back to `998`, no next link from `999`, and no missing targets.
 - Check that no YAML front matter, Liquid templates, or obsolete site/build artifacts remain.
 - For presentation-only conversions, verify that chapter prose is preserved.
 - No build or deployment is part of validation. Report what was and was not tested.
