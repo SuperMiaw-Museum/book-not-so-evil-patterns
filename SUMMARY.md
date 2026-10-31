@@ -21,4 +21,5 @@
 - [017 — The perfectly planned vacation](patterns/017-the-perfectly-planned-vacation.md) · productivity
 - [018 — Human in the loop](patterns/018-human-in-the-loop.md) · AI
 - [019 — The perfectly managed software afterlife](patterns/019-the-perfectly-managed-software-afterlife.md) · lifecycle
+- [020 — The perfectly entertaining history](patterns/020-the-perfectly-entertaining-history.md) · version control
 - [999 — The technical autobiography](patterns/999-the-technical-autobiography.md) · documentation

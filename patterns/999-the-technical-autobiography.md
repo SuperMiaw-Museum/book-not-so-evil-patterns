@@ -47,4 +47,4 @@ You ended up documenting yourself.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](019-the-perfectly-managed-software-afterlife.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](020-the-perfectly-entertaining-history.md)

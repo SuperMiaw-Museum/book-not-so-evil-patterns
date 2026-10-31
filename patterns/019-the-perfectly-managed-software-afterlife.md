@@ -36,4 +36,4 @@ The repository management system is eventually discontinued. Nobody can decide w
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](018-human-in-the-loop.md) · [Next →](999-the-technical-autobiography.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](018-human-in-the-loop.md) · [Next →](020-the-perfectly-entertaining-history.md)
