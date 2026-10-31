@@ -4,9 +4,9 @@
 
 **Created: 2026-10-31T12:01:10Z**
 
-**Modified: 2026-10-31T12:02:30Z**
+**Modified: 2026-10-31T12:41:55Z**
 
-> *“Keep humans in control.”*
+> *“Who came first, the human or the agent?”*
 
 ## Problem
 
@@ -34,4 +34,4 @@ Humans enjoy working with AI so much that they no longer remember when to stop.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](017-the-perfectly-planned-vacation.md) · [Next →](999-the-technical-autobiography.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](017-the-perfectly-planned-vacation.md) · [Next →](019-the-perfectly-managed-software-afterlife.md)

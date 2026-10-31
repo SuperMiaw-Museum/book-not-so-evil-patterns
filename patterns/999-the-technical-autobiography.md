@@ -47,4 +47,4 @@ You ended up documenting yourself.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](018-human-in-the-loop.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](019-the-perfectly-managed-software-afterlife.md)

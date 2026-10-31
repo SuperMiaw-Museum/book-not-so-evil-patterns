@@ -20,4 +20,5 @@
 - [016 — The perfect application logo](patterns/016-the-perfect-application-logo.md) · design
 - [017 — The perfectly planned vacation](patterns/017-the-perfectly-planned-vacation.md) · productivity
 - [018 — Human in the loop](patterns/018-human-in-the-loop.md) · AI
+- [019 — The perfectly managed software afterlife](patterns/019-the-perfectly-managed-software-afterlife.md) · lifecycle
 - [999 — The technical autobiography](patterns/999-the-technical-autobiography.md) · documentation
