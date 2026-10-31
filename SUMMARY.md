@@ -1,6 +1,6 @@
 # Contents
 
-[← Evil Patterns](README.md)
+[← Not so evil patterns](README.md)
 
 - [001 — The website itself](patterns/001-the-website-itself.md) · architecture
 - [002 — The surprise trigger](patterns/002-the-surprise-trigger.md) · database
