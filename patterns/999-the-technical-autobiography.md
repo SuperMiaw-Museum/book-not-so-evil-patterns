@@ -47,4 +47,4 @@ You ended up documenting yourself.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](017-the-perfectly-planned-vacation.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](018-human-in-the-loop.md)

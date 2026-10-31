@@ -19,4 +19,5 @@
 - [015 — The outdoor gate as code](patterns/015-the-outdoor-gate-as-code.md) · devops
 - [016 — The perfect application logo](patterns/016-the-perfect-application-logo.md) · design
 - [017 — The perfectly planned vacation](patterns/017-the-perfectly-planned-vacation.md) · productivity
+- [018 — Human in the loop](patterns/018-human-in-the-loop.md) · AI
 - [999 — The technical autobiography](patterns/999-the-technical-autobiography.md) · documentation

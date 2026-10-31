@@ -38,4 +38,4 @@ The vacation planner is finally ready. Unfortunately, the vacation is over.
 
 ---
 
-[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](016-the-perfect-application-logo.md) · [Next →](999-the-technical-autobiography.md)
+[Book](../README.md) · [Contents](../SUMMARY.md) · [← Previous](016-the-perfect-application-logo.md) · [Next →](018-human-in-the-loop.md)
